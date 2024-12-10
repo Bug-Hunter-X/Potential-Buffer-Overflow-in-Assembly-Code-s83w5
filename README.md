@@ -1,0 +1,2 @@
+# Potential Buffer Overflow in Assembly Code
+This repository demonstrates a potential buffer overflow vulnerability in a simple assembly code snippet. The bug involves writing to a memory location without proper bounds checking, which can lead to program crashes or security exploits.  The solution demonstrates how to mitigate the vulnerability by implementing bounds checking.
